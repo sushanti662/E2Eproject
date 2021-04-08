@@ -1,0 +1,8 @@
+09:20:55.177 [main] INFO  resources.Base - getting the text of the title
+07:47:01.972 [main] INFO  resources.Base - driver is initialized 
+07:47:11.189 [main] INFO  resources.Base - url is launched 
+07:47:13.313 [main] INFO  resources.Base - user id is entered
+07:47:13.570 [main] INFO  resources.Base - password is entered 
+07:47:16.420 [main] INFO  resources.Base - url is launched 
+07:47:17.252 [main] INFO  resources.Base - user id is entered
+07:47:17.407 [main] INFO  resources.Base - password is entered 

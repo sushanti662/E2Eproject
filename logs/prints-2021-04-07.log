@@ -1,0 +1,8 @@
+09:20:29.650 [main] INFO  resources.Base - url is launched 
+09:20:30.680 [main] INFO  resources.Base - user id is entered
+09:20:30.867 [main] INFO  resources.Base - password is entered 
+09:20:33.520 [main] INFO  resources.Base - driver is initilized
+09:20:46.138 [main] INFO  resources.Base - url is launched
+09:20:46.308 [main] INFO  resources.Base - succesfully checked if the navgation bar is displayed or not
+09:20:48.388 [main] INFO  resources.Base - driver is initilized
+09:20:55.126 [main] INFO  resources.Base - navigated to the url

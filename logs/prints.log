@@ -1,0 +1,6 @@
+07:47:20.197 [main] INFO  resources.Base - driver is initilized
+07:47:28.726 [main] INFO  resources.Base - url is launched
+07:47:28.860 [main] INFO  resources.Base - succesfully checked if the navgation bar is displayed or not
+07:47:31.015 [main] INFO  resources.Base - driver is initilized
+07:47:39.943 [main] INFO  resources.Base - navigated to the url
+07:47:40.020 [main] INFO  resources.Base - getting the text of the title
